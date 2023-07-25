@@ -11,3 +11,4 @@ UI/UX
 
 Home:
 ![alt text](/Users/nguyenbach/Documents/Simulator Screen Shot - iPhone 14 Pro - 2023-07-25 at 09.40.21.png)
+<img src="/Users/nguyenbach/Documents/Simulator Screen Shot - iPhone 14 Pro - 2023-07-25 at 09.40.21.png" width="128"/>
