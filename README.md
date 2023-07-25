@@ -10,5 +10,10 @@ Feature:
 UI/UX
 
 Home:
+<img src="Screenshot/home.png" width="246"/>
 
-<img src="Screenshot/home.png" width="100%"/>
+Search:
+<img src="Screenshot/search.png" width="246"/>
+
+After Search:
+<img src="Screenshot/destination.png" width="246"/>
